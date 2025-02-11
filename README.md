@@ -1,5 +1,4 @@
 
-```markdown
 # Roboflow Custom Detectron2
 
 This repository contains a custom implementation of [Detectron2](https://github.com/facebookresearch/detectron2) integrated with [Roboflow](https://roboflow.com/) to train a custom object detection model.
